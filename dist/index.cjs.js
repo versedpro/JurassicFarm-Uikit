@@ -2103,7 +2103,7 @@ var links = [
             },
             {
                 label: "Docs",
-                href: "https://goosedefi.gitbook.io/goose-finance/",
+                href: "https://sumoswap.gitbook.io/sumoswap/",
             },
             {
                 label: "Blog",
@@ -2174,7 +2174,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/SwapSumo",
+        href: "https://twitter.com/SumoSwapFinance",
     },
 ];
 var MENU_HEIGHT = 64;
