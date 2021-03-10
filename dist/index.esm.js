@@ -2106,7 +2106,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/kittyswap",
+                href: "https://t.me/sumoswap",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2150,7 +2150,7 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/kittyswapANN",
+                href: "https://t.me/sumoswapANN",
             },
             // {
             //   label: "Whale Alert",
@@ -2161,7 +2161,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/SwapKitty",
+        href: "https://twitter.com/SwapSumo",
     },
 ];
 var MENU_HEIGHT = 64;

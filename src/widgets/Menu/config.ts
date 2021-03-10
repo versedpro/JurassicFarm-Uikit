@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/kittyswap",
+        href: "https://t.me/sumoswap",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -164,7 +164,7 @@ export const socials = [
       // },
       {
         label: "Announcements",
-        href: "https://t.me/kittyswapANN",
+        href: "https://t.me/sumoswapANN",
       },
       // {
       //   label: "Whale Alert",
@@ -175,7 +175,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/SwapKitty",
+    href: "https://twitter.com/SwapSumo",
   },
 ];
 
